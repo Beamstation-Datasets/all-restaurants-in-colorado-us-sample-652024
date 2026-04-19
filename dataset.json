@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Statewide restaurant dataset covering all active listings across Colorado. Filtered by the Restaurants category group, this state-level export provides the broadest geographic coverage for market analysis. Includes business profiles, ratings, reviews, competitive rankings, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Colorado, US",
-  "export_job_id": "505d60bf-53ab-4e0b-9427-792f86a3b4df",
+  "export_job_id": "7020ad77-ad16-407e-9cf5-1a61900e52ba",
   "github_org": "Beamstation-Datasets",
   "id_short": 652024,
   "location_name": "Colorado",
   "location_type": "state",
   "repo_name": "all-restaurants-in-colorado-us-sample-652024",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/652024/beamstation_652024_restaurants-us-co_SAMPLE_DIST.csv",
-  "sample_pct": 7.26,
+  "sample_pct": 7.39,
   "sample_records": 1000,
-  "sample_sha256": "8020bb9fe16e75e5478b7f3017f5c7ad8034f5aed7eb2878dd6552bce424fda6",
-  "sample_size_bytes": 2963433,
-  "total_records": 13775,
-  "updated_at": "2026-04-09T15:54:25.840460+00:00"
+  "sample_sha256": "6566c3cbd8ff617c00e726a7690d501bac4cdf07410ec270e0d799bd7287743a",
+  "sample_size_bytes": 2790367,
+  "total_records": 13530,
+  "updated_at": "2026-04-16T19:12:19.169784+00:00"
 }
