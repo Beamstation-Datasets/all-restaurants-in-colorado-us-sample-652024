@@ -1,12 +1,12 @@
 {
-  "export_job_id": "505d60bf-53ab-4e0b-9427-792f86a3b4df",
+  "export_job_id": "7020ad77-ad16-407e-9cf5-1a61900e52ba",
   "id_short": 652024,
-  "published_at": "2026-04-14T19:29:21Z",
+  "published_at": "2026-04-19T19:39:53Z",
   "repo_name": "all-restaurants-in-colorado-us-sample-652024",
   "sample_asset_name": "beamstation_652024_restaurants-us-co_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/652024/beamstation_652024_restaurants-us-co_SAMPLE_DIST.csv",
   "sample_records": 1000,
-  "sample_sha256": "8020bb9fe16e75e5478b7f3017f5c7ad8034f5aed7eb2878dd6552bce424fda6",
-  "sample_size_bytes": 2963433,
-  "total_records": 13775
+  "sample_sha256": "6566c3cbd8ff617c00e726a7690d501bac4cdf07410ec270e0d799bd7287743a",
+  "sample_size_bytes": 2790367,
+  "total_records": 13530
 }
