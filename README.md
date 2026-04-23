@@ -9,9 +9,9 @@
 | Dataset ID | `652024` |
 | Location | Colorado |
 | Category | Restaurants |
-| Full dataset size | 13,530 records |
-| Free sample size | 1,000 records (7.39%) |
-| Last export | 2026-04-16T19:12:19.169784+00:00 |
+| Full dataset size | 10,048 records |
+| Free sample size | 1,000 records (9.95%) |
+| Last export | 2026-04-23T15:21:27.941983+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-colorado-us-sample-652024/releases/download/sample-latest/beamstation_652024_restaurants-us-co_SAMPLE_DIST.csv) |
 
 ## What is in this sample
